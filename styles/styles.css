@@ -4,47 +4,47 @@
 }
 /* Wallpapers */
 .home{
-    background-image: url(/Assignmentone/images/Homepage.jpg);
+    background-image: url(/vivekprojectonetourism/images/Homepage.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .login{
-    background-image: url(/Assignmentone/images/Loginpage.jpg);
+    background-image: url(/vivekprojectonetourism/images/Loginpage.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .signup{
-    background-image: url(/Assignmentone/images/signuppage.jpg);
+    background-image: url(/vivekprojectonetourism/images/signuppage.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .district{
-    background-image: url(/Assignmentone/images/Districtpage.jpg);
+    background-image: url(/vivekprojectonetourism/images/Districtpage.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .trivandrum{
-    background-image: url(/Assignmentone/images/districtdetails/trivandrumwallpaper.jpg);
+    background-image: url(/vivekprojectonetourism/images/districtdetails/trivandrumwallpaper.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .kollam{
-    background-image: url(/Assignmentone/images/districtdetails/Kollam.jpg);
+    background-image: url(/vivekprojectonetourism/images/districtdetails/Kollam.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .alapuzha{
-    background-image: url(/Assignmentone/images/districtdetails/alapuzha.jpg);
+    background-image: url(/vivekprojectonetourism/images/districtdetails/alapuzha.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .pathanamthitta{
-    background-image: url(/Assignmentone/images/districtdetails/pathanamthitta.jpg);
+    background-image: url(/vivekprojectonetourism/images/districtdetails/pathanamthitta.jpg);
     background-size: cover;
     background-position: fixed;
 }
 .kottayam{
-    background-image: url(/Assignmentone/images/districtdetails/kottayam.jpg);
+    background-image: url(/vivekprojectonetourism/images/districtdetails/kottayam.jpg);
     background-size: cover;
     background-position: fixed;
 }
